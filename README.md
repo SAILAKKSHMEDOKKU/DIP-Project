@@ -60,11 +60,9 @@ img_in = imread('x.bmp');
 * The code for BM3D in file `BM3D.m` as well as other files related to it have been downloaded and used only for the purpose of comparison with bilateral filtering.
 
 ## Results
-<img width = "100%" src = "assets/8_combined.png" />
 
 > **First column**: Low-light images, **second column**: heat map of initial illumination map, **third column**: heat map of estimated illumination map, **fourth column**: enhanced results, **fifth column**: denoised results via bilateral filtering. 
 
-<p align = "left"><img width = "100%" src = "assets/datasets_results.png"></p>
 
 > Some low-light images from **ExDark dataset**, and results obtained from our implementation.
 
